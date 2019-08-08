@@ -32,7 +32,7 @@ Create/open a plain .txt file and answer the following:
 
 14. What do you dislike about that language?
 
-### For the following, please submit the respective XML files in the same .zip archive used for the scripting exercises at the end of this assessment.
+### For the following, please submit the respective XML files in the same .zip archive used for the scripting exercises at the end of this assessment (instructions below).
 
 1. In PDQ Inventory, create a registry scanner that checks for the default RDP port. Create two collections based on the results: one collection for machines with the default port and one collection for machines not using the default port. Please include the XML files for the scanner and both collections.
 
@@ -54,7 +54,12 @@ Write a script (PowerShell preferred, but certainly not required) that does the 
 * Output to the console in the following format: ".json found in "
 
 ## Final Step:
-When finished, zip up your plain text file ensuring that the .zip file name contains your name, and upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days and considered for an interview.
+When finished, zip up the following into one archive, ensuring the single .zip file contains your name:
+* The plain .txt file containing the questions and answers to the first 14 questions
+* The XML files from the seven PDQ Inventory and PDQ Deploy questions
+* The script from the scripting exercise
+
+Once you have completed the above, upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days by the entire team and considered for an interview.
 
 ## Important
 Please do not include anything in your homework submission (other than your name as the zip file) that could identify you. Submissions are anonymized on receipt so our team does not know whose homework they are evaluating.
