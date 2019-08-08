@@ -1,4 +1,4 @@
-# System Administrator (Associate Solutions Engineer) Homework
+# System Administrator (Solutions Engineer) Homework
 
 Please read the instructions and questions *carefully*. This is an open-book assignment, so feel free to use your highly honed Google-Fu skills, but please don't copy the work of others or have anyone else help you. The entire team will evaluate your homework, which means you are free to use acronyms and technical/industry-specific language where appropriate and expedient.
 
