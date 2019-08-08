@@ -1,6 +1,6 @@
 # System Administrator (Associate Solutions Engineer) Homework
 
-Please read the instructions and questions carefully. This is an open-book assignment, so feel free to use your highly honed Google-Fu skills, but please don't copy the work of others or have anyone else help you. The entire team will evaluate your homework, which means you are free to use acronyms and technical/industry-specific language where appropriate and expedient.
+Please read the instructions and questions *carefully*. This is an open-book assignment, so feel free to use your highly honed Google-Fu skills, but please don't copy the work of others or have anyone else help you. The entire team will evaluate your homework, which means you are free to use acronyms and technical/industry-specific language where appropriate and expedient.
 
 Create/open a plain .txt file and answer the following:
 
@@ -32,7 +32,7 @@ Create/open a plain .txt file and answer the following:
 
 14. What do you dislike about that language?
 
-## For the following, please submit the respective XML files in the same .zip archive used for the scripting exercises at the end of this assessment.
+### For the following, please submit the respective XML files in the same .zip archive used for the scripting exercises at the end of this assessment.
 
 1. In PDQ Inventory, create a registry scanner that checks for the default RDP port. Create two collections based on the results: one collection for machines with the default port and one collection for machines not using the default port. Please include the XML files for the scanner and both collections.
 
@@ -48,10 +48,10 @@ Create/open a plain .txt file and answer the following:
 
 7. Using PDQ Deploy, deploy Java with an approved site list of pdq.com, weather.com, and fancyurl.com with a security level that is set to High and Locked. The approval must apply to all users. Please include the XML file of the deployment package you created.
 
-## Scripting exercise:
+### Scripting exercise:
 Write a script (PowerShell preferred, but certainly not required) that does the following: 
-• Find all json files located within each user's %AppData% directory.
-• Output to the console in the following format: ".json found in "
+* Find all json files located within each user's %AppData% directory.
+* Output to the console in the following format: ".json found in "
 
 ## Final Step:
 When finished, zip up your plain text file ensuring that the .zip file name contains your name, and upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days and considered for an interview.
