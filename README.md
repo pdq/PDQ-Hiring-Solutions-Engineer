@@ -32,7 +32,7 @@ Create/open a plain .txt file and answer the following:
 
 14. What do you dislike about that language?
 
-### For the following, please submit the respective XML files in the same .zip archive used for the scripting exercises at the end of this assessment (instructions below).
+### For the following, please submit the respective XML files in the same .zip archive used for this assessment (instructions below).
 
 1. In PDQ Inventory, create a registry scanner that checks for the default RDP port. Create two collections based on the results: one collection for machines with the default port and one collection for machines not using the default port. Please include the XML files for the scanner and both collections.
 
