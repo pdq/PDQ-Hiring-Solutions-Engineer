@@ -49,7 +49,7 @@ Create/open a plain .txt file and answer the following:
 7. Using PDQ Deploy, deploy Java with an approved site list of pdq.com, weather.com, and fancyurl.com with a security level that is set to High and Locked. The approval must apply to all users. Please include the XML file of the deployment package you created.
 
 ## Scripting exercise:
-Write a script (PowerShell preferred) that does the following: 
+Write a script (PowerShell preferred, but certainly not required) that does the following: 
 • Find all json files located within each user's %AppData% directory.
 • Output to the console in the following format: ".json found in "
 
