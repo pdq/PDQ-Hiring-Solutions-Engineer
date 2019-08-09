@@ -32,7 +32,7 @@ Create/open a plain .txt file and answer the following:
 
 14. What do you dislike about that language?
 
-### For the following, please submit the respective XML files in the same .zip archive used for this assessment (instructions below).
+### For the following, please submit the XML files in the same .zip archive used for this assessment (instructions below).
 
 1. In PDQ Inventory, create a registry scanner that checks for the default RDP port. Create two collections based on the results: one collection for machines with the default port and one collection for machines not using the default port. Please include the XML files for the scanner and both collections.
 
@@ -56,7 +56,7 @@ Write a script (PowerShell preferred, but certainly not required) that does the 
 ## Final Step:
 When finished, zip up the following into one archive, ensuring the single .zip file contains your name:
 - [x] The plain .txt file containing the questions and answers to the first 14 questions
-- [x] The XML files from the seven PDQ Inventory and PDQ Deploy questions
+- [x] The XML files from the seven PDQ Inventory and PDQ Deploy questions. The XML files should be tied logically to their respective exercises. How you decide to do that is part of the assessment.
 - [x] The script from the scripting exercise
 
 Once you have completed the above, upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days by the entire team and considered for an interview.
