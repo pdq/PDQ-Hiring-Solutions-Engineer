@@ -61,5 +61,5 @@ When finished, zip up the following into one archive, ensuring the single .zip f
 
 Once you have completed the above, upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days by the entire team and considered for an interview.
 
-## Important
-:warning:*Do not include anything in your homework submission (other than your name as the zip file) that could identify you. Submissions are anonymized on receipt so our team does not know whose homework they are evaluating.*:warning:
+## :warning: Important
+*Do not include anything in your homework submission (other than your name as the zip file) that could identify you. Submissions are anonymized on receipt so our team does not know whose homework they are evaluating.*
