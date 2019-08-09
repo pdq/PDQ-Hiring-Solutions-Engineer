@@ -10,7 +10,7 @@ Create/open a plain .txt file and answer the following:
 
 3. Explain why machines lose trust with Active Directory and the most efficient and least impactful way to resolve this issue.
 
-4. You have a machine that responds to `ping`, but when you try to access it you discover you're accessing another machine entirely. Why? How do you troubleshoot and resolve this issue?
+4. You have a machine that responds to ping, but when you try to access it you discover you're accessing another machine entirely. Why? How do you troubleshoot and resolve this issue?
 
 5. Explain Heartbeat and Heartbeat Trigger as used in PDQ.com products.
 
@@ -20,7 +20,7 @@ Create/open a plain .txt file and answer the following:
 
 8. What is the most difficult application you have had to deploy? What made it difficult?
 
-9. What command would you use to silently install an MSI file called `MyApp.msi`. (Do not allow a reboot after the install.)
+9. What command would you use to silently install an MSI file called MyApp.msi. (Do not allow a reboot after the install.)
 
 10. In your AD domain, you have computers frequently switching between different networks: VPN, wireless, wired, and VLANs. You are using Microsoft’s implementation of DHCP and DNS. Describe how you would configure DHCP or DNS (or both) to handle those computers.
 
