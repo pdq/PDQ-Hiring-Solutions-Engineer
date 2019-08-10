@@ -34,8 +34,7 @@ Create/open a plain .txt file and answer the following:
 
 15. Please select the five characteristics of a job or work environment that are the most important to you and rank them in order of importance (1 being most important).
 
-```
-_____ Mentoring others
+```_____ Mentoring others
 _____ Working with smart people ("A Players")
 _____ Learning from others
 _____ Working with nice people
