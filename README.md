@@ -32,6 +32,26 @@ Create/open a plain .txt file and answer the following:
 
 14. What do you dislike about that language?
 
+15. Please select the five characteristics of a job or work environment that are the most important to you and rank them in order of importance (1 being most important).
+
+```
+_____ Mentoring others
+_____ Working with smart people ("A Players")
+_____ Learning from others
+_____ Working with nice people
+_____ Doing things the "Right Way"
+_____ Solving hard technical problems
+_____ Making customers happy
+_____ Working closely with a customer
+_____ Opportunity for travel
+_____ Creating innovative solutions
+_____ Leading a team
+_____ Developing / Providing high quality solutions
+_____ Working on a team
+_____ Opportunity for advancement
+_____ Other: _____________________________
+```
+
 ### For the following, please submit the XML files in the same .zip archive used for this assessment (instructions below).
 
 1. In PDQ Inventory, create a registry scanner that checks for the default RDP port. Create two collections based on the results: one collection for machines with the default port and one collection for machines not using the default port. Please include the XML files for the scanner and both collections.
