@@ -74,7 +74,7 @@ Write a script (PowerShell preferred, but certainly not required) that does the 
 
 ## Final Step:
 When finished, zip up the following into one archive, ensuring the single .zip file contains your name:
-- [x] The plain .txt file containing the questions and answers to the first 14 questions
+- [x] The plain .txt file containing the questions and answers to the first 15 questions
 - [x] The XML files from the seven PDQ Inventory and PDQ Deploy questions. The XML files should be tied logically to their respective exercises. How you decide to do that is part of the assessment.
 - [x] The script from the scripting exercise
 
